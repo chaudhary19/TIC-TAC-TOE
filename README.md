@@ -1,3 +1,5 @@
+<h1><a href = "https://chaudhary19-tic-tac-toe.netlify.app/">Play Here!!</a></h1>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
